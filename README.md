@@ -56,3 +56,23 @@ npx sb init
 npm install --save-dev @storybook/addon-postcss tsconfig-paths-webpack-plugin @babel/plugin-proposal-class-properties @babel/plugin-proposal-private-methods @babel/plugin-proposal-private-property-in-object tsconfig-paths-webpack-plugin @mdx-js/react
 npm run storybook
 ```
+## ReactHookForm
+```bash
+npm install react-hook-form
+```
+
+## ReactContentLoader
+```bash
+npm install react-content-loader
+npm install --save-dev @types/react-content-loader
+```
+
+## MaterialIcons
+```bash
+npm install @mui/material @mui/icons-material @emotion/react @emotion/styled
+```
+
+## テスト環境構築
+```bash
+npm install --save-dev @testing-library/jest-dom @testing-library/react jest jest-environment-jsdom
+```
