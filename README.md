@@ -46,6 +46,8 @@ compilerオプションのstyledComponents を有効化
 ## ESlint
 ```bash
 npm install --save-dev prettier eslint typescript-eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-import
+npm run lint
+npm run format
 ```
 
 ## Storybook
