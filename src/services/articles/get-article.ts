@@ -1,5 +1,5 @@
-import type { ApiContext, Blog } from '../types/data'
-import { fetcher } from '../utils'
+import type { ApiContext, Blog } from '../../types/data'
+import { fetcher } from '../../utils'
 export type GetArticleParams = {
   id: string
 }
